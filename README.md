@@ -80,3 +80,8 @@ submission = pd.read_csv('sample_submission.csv')
 submission['Cancer'] = final_pred
 
 submission.to_csv('/content/sample_data/baseline_submit.csv', index=False)
+
+![데이콘](https://github.com/user-attachments/assets/537c1dab-904d-4e86-a408-6239b04a295c)
+
+
+![제출](https://github.com/user-attachments/assets/2ea446ca-bc16-416d-9376-4d3cf61fbeef)
