@@ -1,4 +1,4 @@
-# 25619005-
+# 25619005- 권민서
 import pandas as pd
 import numpy as np
 
